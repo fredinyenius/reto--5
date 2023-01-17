@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-page -d dist"
+    "deploy": "gh-page -d src"
   },
   "dependencies": {
     "localforage": "^1.10.0",
